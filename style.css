@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blue;
+    padding: 5px;
+}
+header a{
+    text-decoration: none;
+    background-color: brown;
+    border-radius: 5px;
+    padding: 3px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: aqua;
+}
+footer{
+    background-color: rgb(255, 0, 247);
+    padding: 5px;
+}
+footer p{
+    background-color: rgb(225, 230, 226);
+}
+nav{
+    background-color: chartreuse;
+}
+ nav a {
+    margin:20px;
+    font-size: 20px;
+    text-decoration: none;
+    color:white
+ }
+ .product{
+    background-color: aqua;
+    border: 5px product  aqua;
+ }
+h2{
+    background-color: rgb(152, 62, 81);
+}
